@@ -1,0 +1,27 @@
+Project	Name : ASSESSMENT-2: IoT Application
+
+
+Student	Name:		Niall O’Neill
+Student	ID:		20082280
+
+
+
+Tools,Technologies and Equipment
+
+For my project I propose to build an app that will show decibel levels in my local public house. The app will also show the temperature inside the pub. I also intend to build a website that will show the above information.
+
+The hardware I will be using is a Raspberry Pi 3, Model B+. I will have to add a sound sensor to the Pi as it is not preinstalled. The Pi will be left in the pub for a week or so and the programs will start up when the pi is turned on and rerun every 5 minutes or so.
+
+I also intend to have the Pi detect when certain MAC addresses of friends phones are connected the WIFI in the pub. When the are on, a text message will be sent to me or anyone who I chose to notify them that a certain person is in the pub.
+
+I would like to write a small program in Java to facilitate a local chat room whereby
+Certain users could message each other on the website, preferably on the app ut I need to explore this more. The program language I intend to use for this is Java.
+
+For the project, I intend to use both the Wia IOT platform for the website and the programming will be mainly done using the Python programming language. I intend to use the wia MQQT API for publication and subscription and possibly MessageBird for sms text notifications.
+
+Fow mobile application I intend to use blynk and am yet to fully explore whats on offer here. 
+
+Write a	list of things you propose to use in your work.
+This can be hardware,programming languages etc.
+
+Project	Repository
