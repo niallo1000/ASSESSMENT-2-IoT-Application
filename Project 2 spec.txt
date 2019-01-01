@@ -1,0 +1,21 @@
+﻿Project	Name : ASSESSMENT-2: IoT Application
+
+
+Student	Name:		Niall O’Neill
+Student	ID:		20082280
+
+
+
+Tools,Technologies and Equipment
+
+For my project I propose to build an app that will check the presence of friends in my local public house. The app will be run using Blynk from my mobile phone.
+
+I also intend to have the Pi detect when certain MAC addresses of friends phones are connected the WIFI in the pub. The  Grove Buzzer will be connected to the pi so that I can notify the barman that I am on the way and also the Grove LCD RGB Backlight will display a message I send via my blynk app on my phone.
+
+The Pi will be left in the pub for a week or so and the program will start up when the pi is turned on and run when the buttons on the Blynk app re pressed.
+
+
+For the project, I intend to use both the Wia IOT platform for the website and the programming will be mainly done using the Python programming language. 
+Write a	list of things you propose to use in your work.
+
+The hardware I will be using is a Raspberry Pi 3, Model B+. I will also use a Grove Pi+, a Grove Buzzer and the Grove LCD RGB Backlight.
