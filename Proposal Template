@@ -21,8 +21,27 @@ For the project, I intend to use both the Wia IOT platform for the website and t
 
 Fow mobile application I intend to use blynk and am yet to fully explore whats on offer here. 
 
-Write a	list of things you propose to use in your work.
-This can be hardware,programming languages etc.
 
 Project	Repository
 niallo1000/ASSESSMENT-2-IoT-Application
+
+RESULT
+The project changed upon developmentof the app.I was usig a grove Pi sensehat rather than the usualsense hat. The purpose of this was to use the sound dectector
+that came with the kit. I was unable to get sound sensor working and after numerous hours trying different things to get it going, I changed the project using the 
+kit additions that I could get going. I was in touch with the manufaturers of the grove pi and their boards to find a solution. One recommendation from Grove was to 
+flash the hardware but this failed also. The error was to dowitht he Grove Pi Python liberies which wasnt going to be a quick fix on their side.
+I did gain some valuable experience from trying various installs and found my way around Python/Linux better because of all this.
+
+The project ended up as per below and although not as I set out to do, it still demenstrated an Internet of Things application.
+
+For my project I propose to build an app that will check the presence of friends in my local public house. The app will be run using Blynk from my mobile phone.
+
+I also intend to have the Pi detect when certain MAC addresses of friends phones are connected the WIFI in the pub. The  Grove Buzzer will be connected to the pi so that I can notify the barman that I am on the way and also the Grove LCD RGB Backlight will display a message I send via my blynk app on my phone.
+
+The Pi will be left in the pub for a week or so and the program will start up when the pi is turned on and run when the buttons on the Blynk app re pressed.
+
+
+For the project, I intend to use both the Wia IOT platform for the website and the programming will be mainly done using the Python programming language. 
+Write a	list of things you propose to use in your work.
+
+The hardware I will be using is a Raspberry Pi 3, Model B+. I will also use a Grove Pi+, a Grove Buzzer and the Grove LCD RGB Backlight.
